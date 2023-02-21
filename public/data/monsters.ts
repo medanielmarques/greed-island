@@ -1,4 +1,4 @@
-const monsters = {
+export const monsters = {
   Emby: {
     position: {
       x: 280,
